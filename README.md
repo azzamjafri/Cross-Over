@@ -1,4 +1,10 @@
-# FILE STORAGE SYSTEM
+#Deliver a web application that is able to upload an image.
+
+###    The file upload must be restricted to PNG or JPEG types.
+###    The image must not exceed 500KB.
+###    The user uploads an image and provides a description.
+###    The application displays helpful user-friendly information when an error occurs.
+
 
 ### File can be directly uplaoded to amazon and can be delete.
 
@@ -7,11 +13,3 @@
 
 
 This service implements kotlin coroutines.
-
-
-Following are not yet working :-
-
-* Video Compression
-* Pdf Compression
-* Deleting throug file url
-(Althogh deletion with file name at /delete is working).
